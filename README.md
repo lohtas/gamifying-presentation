@@ -1,4 +1,4 @@
-pathgame
+LIBR 287-15
 ========
 
-Information Visualization Path Game for LIBR 287-15
+Gamifying Information Final Presentation
